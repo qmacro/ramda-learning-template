@@ -14,3 +14,7 @@ It incorporates elements for a smooth workflow:
 
 The idea is that you set up the workflow within a dual-pane window in tmux, and run Mocha in "watch" mode
 in one of the panes, modifying the code in the other. The tests will be rerun when the file is saved.
+
+See this [short video](https://www.youtube.com/watch?v=FJkmPuQLLfw) for a demonstration:
+
+[![demo video](demo.png)](https://www.youtube.com/watch?v=FJkmPuQLLfw)
