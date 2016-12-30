@@ -1,3 +1,5 @@
+(function () {
+"use strict";
 const R = require('ramda');
 
 const teams = [
@@ -29,3 +31,4 @@ describe("Football team results", () => {
 	});
 
 });
+}());
